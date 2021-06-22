@@ -1,0 +1,18 @@
+@charset "UTF-8";
+.responsive-image{
+	max-width: 100%;
+	align-items: center;
+	
+	
+}
+
+p{
+	padding-left: 10px;
+	border: 1px solid;
+	border-color: crimson;
+	background-color: lightcoral;
+	text-align: center;
+	border-bottom-width: inherit;
+	
+	
+}
